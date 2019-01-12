@@ -1,4 +1,4 @@
 Repel-Simulation
 ================
 
-This is a program that simulates the plasma points interacting with each other. 
+This was a simple simulation I performed using python in order to find how points arrange themselves when repelling forces are present.
